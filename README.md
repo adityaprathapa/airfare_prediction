@@ -20,19 +20,6 @@ Login or signup in order to create virtual app. You can either connect your gith
 
 Next step would be to follow the instruction given on Heroku Documentation to deploy a web app.
 
-Directory Tree
-├── static 
-│   ├── css
-├── template
-│   ├── home.html
-├── Procfile
-├── README.md
-├── app.py
-├── flight_price.ipynb
-├── flight_rf.pkl
-├── requirements.txt
-Technologies Used
-
 Bug / Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result
 
